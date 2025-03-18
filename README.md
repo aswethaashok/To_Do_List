@@ -57,8 +57,6 @@ Upload to GitHub Pages for free hosting.
         </div>
         <ul id="taskList"></ul>
     </div>
-
-    <!-- Footer Section -->
     <footer>
         <p>&copy; SWETHA (212223220114). All rights reserved.</p>
     </footer>
@@ -166,7 +164,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 todo.js
+
 document.addEventListener("DOMContentLoaded", loadTasks);
 
 function addTask() {
